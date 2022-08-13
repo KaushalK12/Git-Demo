@@ -1,1 +1,1 @@
-Utility functions for video 3
+Utility functions for Demo purpose
